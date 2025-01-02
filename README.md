@@ -1,16 +1,8 @@
 # shopping_list
 
-A new Flutter project.
+A application that stores the shopping material of yours.
 
-## Getting Started
+## Demo Pictures of the Application
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-01-03 043926](https://github.com/user-attachments/assets/0e4fca87-a28f-4484-8d28-d0a8704817bc)
+![Screenshot 2025-01-03 044059](https://github.com/user-attachments/assets/1366deba-9e51-4e77-8eb4-40c867ff7f1a)
